@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+    background-color: skyblue;
+   
+    
+}
+.container{
+  width:500px;
+  height:450px;
+  text-align:center;
+  margin:0 auto;
+  background-color:rgb(212, 248, 139);
+  border-radius: 04px;
+  margin: 0px auto;
+  margin-top: 160px;
+}
+.container .contant{
+    background-color: gray;
+    border-radius: 10px;
+    padding: 60px 60px;
+   
+}
+.container form{
+  background-color:hotpink;
+  color:seashell;
+  padding: 30px 30px;
+  margin: 50px 50px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  
+}
+form input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  button {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+form :hover{
+  color:tomato;
+}

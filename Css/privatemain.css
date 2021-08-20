@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+    background-color:powderblue;
+    border: 1px black solid;
+}
+input{
+    background-color:white;
+    color:crimson;
+}
+.navbar{
+    width: 100%;
+    background-color:darkslategrey;
+    color: darkslategrey;
+    margin-bottom: 2px;
+    border: 3px solid black;
+    font-family: 'Staatliches', cursive;
+}
+.navbar .top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar .top .left span{
+    float: right;
+    padding-left: 20px;
+    padding-bottom:80px ;
+}
+.navbar .top .menu .user{
+    background-color:white;
+}
+.navbar .top .left span{
+    color:white;
+    font-size: 20px;
+}
+.navbar .top .menu li{
+    list-style: none;
+    display: inline-block;
+}
+.navbar .menu li a{
+    display:block;
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: 30px;
+    padding-right: 20px;
+}
+.navbar .menu li a:hover{
+    color: crimson;
+}
+.brands h1{
+    font-size: 40px;
+    text-align:left;
+    margin:10px 10px;
+    padding: 2px 2px;
+    color: black;
+    border: 2px black solid;
+    border-radius:20px;
+    background-color: mistyrose;
+    font-family: 'Satisfy', cursive;
+}
+body td {
+    border-radius: 20px;
+    color:black;
+    padding: 3px 8px;
+    background-color:lavender;
+    font-family: 'Dosis', sans-serif;
+
+}
+body td a{
+    color: black;
+    font-family: 'Satisfy', cursive;
+}
+body td a:hover , body td:hover {
+    background-color:lightyellow;
+    color: crimson;
+    cursor: pointer;
+}
+.bike h1 , .car  h1 , .enginoill h1{
+    text-align:center;
+    color: black;
+    border: 2px black solid;
+    background-color:mistyrose;
+    margin: 60px 100px;
+    padding:20px 20px;
+    font-size:40px;
+    font-family: 'Satisfy', cursive;
+    border-radius: 20px;
+
+}
+.brands a img {
+    margin:5px 5px;
+}
+.bike a img, .car a img.enginoill a img{
+    padding: 10px 10px;
+    margin: 10px 10px;
+}
+.bike p img, .car p img ,.enginoill p img{
+    padding: 5px;
+    border: 2px springgreen solid ;
+    margin: 8px;
+    border-bottom: 2px black solid;
+    
+}
+.bike p , .car p , .enginoill p{
+    border-top: 2px black solid;
+    border-bottom: 2px black solid;
+}
+
+.brands tr td h2,.bike tr td h2 , .car tr td h2 , .enginoill tr td h2{
+    text-align:center;
+    color: darkslateblue;
+    font-family: 'Satisfy', cursive;
+    
+}
+body table tr td h3 a{
+    font-size: 20px;
+    text-align: center;
+    padding-left: 60px;
+    color:crimson;
+    font-family: 'Satisfy', cursive;
+}
+div table tr td h4{
+    color: crimson;
+}
+div table tr td #button1{
+    color:black;
+    background-color:lightgray;
+    font-family: 'Poiret One', cursive;
+    float:right;
+    margin:2px 2px;
+    padding:3px;
+    border-color: crimson;
+    border-radius: 40px;
+}
+div table tr td #button1:hover {
+    color: white;
+    background-color: crimson;
+    cursor: pointer;
+}
+.footer{
+text-align:left;
+background-color:darkslategrey;
+color: white;
+border:2px crimson solid;
+font-family: 'Merienda', cursive;
+padding-bottom: 200px;
+text-align: center;
+}
+.footer .website a{
+    color: white;
+}
+.footer .right{
+    width:500px;
+    height:550px;
+    color: black;
+    text-align:center;
+    background-color:rgb(212, 248, 139);
+    border-radius: 04px;
+    float:right;
+  }
+  .footer .right .form{
+      background-color: gray;
+      border-radius: 10px;
+      padding: 20px 20px;
+     
+  }
+  .footer .right form{
+    background-color:hotpink;
+    color:seashell;
+    padding: 20px 20px;
+    margin: 20px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    
+  }
+  .footer  form input[type=password], select {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      box-sizing: border-box;
+    }
+    .footer   input[type=text], select {
+      width: 100%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      box-sizing: border-box;
+    }
+    .footer   input[type=email], select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        box-sizing: border-box;
+      }
+      .footer   textarea, select {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        box-sizing: border-box;
+      }
+      .footer  button {
+      width: 100%;
+      background-color: #4CAF50;
+      color: white;
+      padding: 14px 20px;
+      margin: 8px 0;
+      border: none;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    

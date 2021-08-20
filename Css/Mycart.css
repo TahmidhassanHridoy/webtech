@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body{
+    background-color:skyblue;
+    border: 1px black solid;
+}
+input{
+    background-color:white;
+    color:black;
+}
+.navbar{
+    width: 100%;
+    background-color:gray;
+    color: black;
+    margin-bottom: 2px;
+    border: 3px solid black;
+    font-family: 'Staatliches', cursive;
+}
+.navbar .top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar .top .left span{
+    float: right;
+    padding-left: 20px;
+    padding-bottom:80px ;
+}
+.navbar .menu .user{
+    background-color:white;
+}
+.navbar .left a{
+    color:black;
+    font-size: 40px;
+    font-weight: 300;
+}
+.navbar .left a span{
+    color: black;
+}
+.navbar .menu li{
+    list-style: none;
+    display: inline-block;
+}
+.navbar .menu li a{
+    display:block;
+    color: black;
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: 30px;
+    padding-right: 20px;
+}
+.navbar .menu li a:hover{
+    color: crimson;
+}
+.brands h1{
+    font-size: 40px;
+    text-align: center;
+    margin:10px 10px;
+    padding: 2px 2px;
+    color: black;
+    border: 2px black solid;
+    border-radius:20px;
+    background-color: springgreen;
+}
+body td {
+    border-radius:5px;
+    color:black;
+    padding: 3px 10px;
+    border: 1px solid black;
+    background-color: white;
+    font-family: 'Dosis', sans-serif;
+
+}
+table tr td h4{
+    color:crimson;
+}
+table tr td #button1{
+    color:black;
+    background-color:lightgray;
+    font-family: 'Poiret One', cursive;
+    float:right;
+    margin:2px 2px;
+    padding:3px;
+    border-color: crimson;
+    border-radius: 40px;
+}
+table tr td #button1:hover {
+    color: white;
+    background-color: crimson;
+}
+.footer{
+text-align: center;
+background-color:gray;
+color: white;
+border:2px crimson solid;
+font-family: 'Merienda', cursive;
+}
+.footer p .website a{
+    color: crimson;
+}
+

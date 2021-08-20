@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+body{
+    
+    border:2px rgb(209, 98, 219) solid;
+    background-color:powderblue;
+}
+.navbar{
+    width: 100%;
+    background-color:teal;
+    color: white;
+    margin-bottom: 2px;
+    border: 1px solid crimson;
+    font-family: 'Staatliches', cursive;
+}
+.navbar .top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar .top .left span{
+    float: right;
+    padding-left: 20px;
+    padding-bottom:80px ;
+}
+.navbar .top .left p{
+    float: right;
+    padding-left: 20px;
+    padding-bottom:80px ;
+}
+.navbar .menu .user{
+    border: 2px crimson solid;
+}
+.navbar .left a{
+    color:white;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.navbar .menu li{
+    list-style: none;
+    display: inline-block;
+}
+.navbar .menu li a{
+    display:block;
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+    margin-left: 30px;
+    padding-right: 20px;
+}
+.navbar .menu li a:hover{
+    color: crimson;
+}
+
+table{
+    background-color:paleturquoise;
+    color:darkblue;
+    font-family: 'Staatliches', cursive;
+    text-align: center;
+    width: 32%;
+    border-collapse: collapse;
+  
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+th, td {
+    padding: 4px;
+    text-align: middle;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  tr:hover {background-color: yellow;}
+
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  input[type=date], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  input[type=email], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  input[type=tel], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  input[type=submit] {
+    width: 100%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+.footer{
+    text-align: center;
+    background-color:gray;
+    color: white;
+    border:2px crimson solid;
+    font-family: 'Merienda', cursive;
+    }
