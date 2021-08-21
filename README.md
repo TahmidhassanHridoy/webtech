@@ -1,5 +1,15 @@
 # webtech
+  * Download the Folders :
+     * SparePartsMarket.zip (Unzip it first)  
+     * Car_img 
+     * Engin_oil_img
+     * backgroundimg
+     * Bike_img.zip (Unzip it)
+     * Put All the Img folders in the SparePartsMarket Folder
+     * Then run the code as per Instruction given bellow
+     * OR
   * Full code Zip Download link:  https://1drv.ms/u/s!AigetgoJZo_Ru1W7mvOMgcnviyqy?e=L6MoZa
+ 
 # Project Description:
 
  - Common Features for all user:------------
