@@ -7,8 +7,9 @@
      * Bike_img.zip (Unzip it)
      * Put All the Img folders in the SparePartsMarket Folder
      * Then run the code as per Instruction given bellow
-     * OR
-  * Full code Zip Download link:  https://1drv.ms/u/s!AigetgoJZo_Ru1W7mvOMgcnviyqy?e=L6MoZa
+  * -- OR --------------------------------------------------
+  * Download Full code Zip:-
+  * Full code Zip link:  https://1drv.ms/u/s!AigetgoJZo_Ru1W7mvOMgcnviyqy?e=L6MoZa
  
 # Project Description:
 
