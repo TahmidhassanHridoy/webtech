@@ -50,7 +50,7 @@
 
      * Can comment or provide review (implemented).
     
- # ---------------FRONT END AND BACK END------------------
+ # -------------FRONT END AND BACK END------------------
 
    * The basic structure of the page is   :  HTML .
 
