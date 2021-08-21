@@ -1,10 +1,11 @@
 # webtech
-  * Download the Folders :
+  * Download All the Folders First then 
      * SparePartsMarket.zip    (Unzip /Extract it first)  
      * Car_img.zip             (Unzip /Extract it)
      * Engin_oil_img.zip       (Unzip /Extract it)
      * backgroundimg.zip       (Unzip /Extract it)
      * Bike_img.zip            (Unzip /Extract it)
+     * After Unziping / Extracting -
      * Put All the Img folders in the SparePartsMarket Folder
      * Then run the code as per Instruction given bellow
   * -- OR --------------------------------------------------
