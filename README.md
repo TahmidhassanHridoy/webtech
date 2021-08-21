@@ -42,7 +42,7 @@
 
      * Can contact system admin (implemented).
 
-- Customer/Buyer Functionality:----------------------
+- Customer/Buyer Functionality:--------------------
 
      * Can add to cart ,remove from cart , purchase products. (implemented).
 
@@ -50,7 +50,7 @@
 
      * Can comment or provide review (implemented).
     
- # ---------------FRONT END AND BACK END--------------------
+ # ---------------FRONT END AND BACK END------------------
 
    * The basic structure of the page is   :  HTML .
 
@@ -58,7 +58,7 @@
 
    * In the BACK END code I have used     :  PHP , SESSION , PHP VALIDATION , JAVASCRIPT ,JAVASCRIPT VALIDATION 
                                                     AJAX , DATABASE connection(PHP) .
-  # -------------------How to run the code -------------------
+  # -------------------How to run the code ----------------
   
   * First you have to Download and install XAMPP sever software . 
          
